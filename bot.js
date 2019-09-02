@@ -1,7 +1,7 @@
 /*
- * Discord Bot Maker Bot
- * Version 2.0.1
- * Robert Borghese
+ * 
+ * 
+ * 
  */
 
 const DBM = {};
